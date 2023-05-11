@@ -1,5 +1,5 @@
-import styles from './App.module.scss';
+// import styles from './App.module.scss';
 
 export default function App() {
-  return ();
+  return <></>;
 }
